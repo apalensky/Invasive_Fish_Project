@@ -1,0 +1,119 @@
+Group,Family,Scientific Name,variety,Common Name,Native/Exotic,Fresh/Marine/Brackish
+Fishes,Clupeidae,Alosa aestivalis,,Blueback Herring,Native,Freshwater-Marine
+Fishes,Clupeidae,Alosa pseudoharengus,,Alewife,Native,Freshwater-Marine
+Fishes,Clupeidae,Alosa sapidissima,,American Shad,Native,Freshwater-Marine
+Fishes,Centrarchidae,Ambloplites cavifrons,,Roanoke Bass,Native,Freshwater
+Fishes,Centrarchidae,Ambloplites rupestris,,Rock Bass,Native,Freshwater
+Fishes,Ictaluridae,Ameiurus brunneus,,Snail Bullhead,Native,Freshwater
+Fishes,Ictaluridae,Ameiurus melas,,Black Bullhead,Native,Freshwater
+Fishes,Ictaluridae,Ameiurus natalis,,Yellow Bullhead,Native,Freshwater
+Fishes,Ictaluridae,Ameiurus nebulosus,,Brown Bullhead,Native,Freshwater
+Fishes,Ictaluridae,Ameiurus platycephalus,,Flat Bullhead,Native,Freshwater
+Fishes,Amiidae,Amia calva,,Bowfin,Native,Freshwater
+Fishes,Cichlidae,Astronotus ocellatus,,Oscar,Exotic,Freshwater
+Fishes,Cyprinidae,Campostoma anomalum,,Central Stoneroller,Native,Freshwater
+Fishes,Cyprinidae,Carassius auratus,,Goldfish,Exotic,Freshwater
+Fishes,Catostomidae,Carpiodes cyprinus,,Quillback,Native,Freshwater
+Fishes,Centrarchidae,Centrarchus macropterus,,Flier,Native,Freshwater
+Fishes,Channidae,Channa argus,,Northern Snakehead,Exotic,Freshwater
+Fishes,Cyprinidae,Chrosomus oreas,,Mountain Redbelly Dace,Native,Freshwater
+Fishes,Cyprinidae,Clinostomus elongatus,,Redside Dace,Native,Freshwater
+Fishes,Cyprinidae,Clinostomus funduloides,,Rosyside Dace,Native,Freshwater
+Fishes,Cyprinidae,Clinostomus funduloides funduloides,,Rosyside Dace,Native,Freshwater
+Fishes,Characidae,Colossoma or Piaractus sp.,,unidentified pacu,Exotic,Freshwater
+Fishes,Cyprinidae,Ctenopharyngodon idella,,Grass Carp,Exotic,Freshwater
+Fishes,Cyprinidae,Ctenopharyngodon idella,diploid,Grass Carp (diploid),Exotic,Freshwater
+Fishes,Cyprinidae,Ctenopharyngodon idella,triploid,Grass Carp (triploid),Exotic,Freshwater
+Fishes,Cyprinidae,Cyprinella galactura,,Whitetail Shiner,Native,Freshwater
+Fishes,Cyprinidae,Cyprinella lutrensis,,Red Shiner,Native,Freshwater
+Fishes,Cyprinidae,Cyprinella spiloptera,,Spotfin Shiner,Native,Freshwater
+Fishes,Cyprinidae,Cyprinus carpio,,Common Carp,Exotic,Freshwater
+Fishes,Clupeidae,Dorosoma cepedianum,,Gizzard Shad,Native,Freshwater-Marine
+Fishes,Clupeidae,Dorosoma petenense,,Threadfin Shad,Native,Freshwater-Marine
+Fishes,Centrarchidae,Enneacanthus obesus,,Banded Sunfish,Native,Freshwater
+Fishes,Catostomidae,Erimyzon oblongus,,Creek Chubsucker,Native,Freshwater
+Fishes,Esocidae,Esox lucius,,Northern Pike,Native,Freshwater
+Fishes,Esocidae,Esox lucius x E. masquinongy,,tiger muskellunge,Native Hybrid,Freshwater
+Fishes,Esocidae,Esox masquinongy,,Muskellunge,Native,Freshwater
+Fishes,Esocidae,Esox niger,,Chain Pickerel,Native,Freshwater
+Fishes,Percidae,Etheostoma blennioides,,Greenside Darter,Native,Freshwater
+Fishes,Percidae,Etheostoma caeruleum,,Rainbow Darter,Native,Freshwater
+Fishes,Percidae,Etheostoma rufilineatum,,Redline Darter,Native,Freshwater
+Fishes,Percidae,Etheostoma simoterum,,Snubnose Darter,Native,Freshwater
+Fishes,Cyprinidae,Exoglossum maxillingua,,Cutlip Minnow,Native,Freshwater
+Fishes,Poeciliidae,Gambusia affinis,,Western Mosquitofish,Native,Freshwater
+Fishes,Poeciliidae,Gambusia holbrooki,,Eastern Mosquitofish,Native,Freshwater
+Fishes,Catostomidae,Hypentelium roanokense,,Roanoke Hog Sucker,Native,Freshwater
+Fishes,Cyprinidae,Hypophthalmichthys nobilis,,Bighead Carp,Exotic,Freshwater
+Fishes,Ictaluridae,Ictalurus furcatus,,Blue Catfish,Native,Freshwater
+Fishes,Ictaluridae,Ictalurus punctatus,,Channel Catfish,Native,Freshwater
+Fishes,Catostomidae,Ictiobus cyprinellus,,Bigmouth Buffalo,Native,Freshwater
+Fishes,Atherinopsidae,Labidesthes sicculus,,Brook Silverside,Native,Freshwater
+Fishes,Centrarchidae,Lepomis auritus,,Redbreast Sunfish,Native,Freshwater
+Fishes,Centrarchidae,Lepomis cyanellus,,Green Sunfish,Native,Freshwater
+Fishes,Centrarchidae,Lepomis gibbosus,,Pumpkinseed,Native,Freshwater
+Fishes,Centrarchidae,Lepomis gulosus,,Warmouth,Native,Freshwater
+Fishes,Centrarchidae,Lepomis macrochirus,,Bluegill,Native,Freshwater
+Fishes,Centrarchidae,Lepomis megalotis,,Longear Sunfish,Native,Freshwater
+Fishes,Centrarchidae,Lepomis microlophus,,Redear Sunfish,Native,Freshwater
+Fishes,Cyprinidae,Leuciscus idus,,Ide,Exotic,Freshwater
+Fishes,Cyprinidae,Luxilus albeolus,,White Shiner,Native,Freshwater
+Fishes,Cyprinidae,Luxilus cerasinus,,Crescent Shiner,Native,Freshwater
+Fishes,Cyprinidae,Luxilus coccogenis,,Warpaint Shiner,Native,Freshwater
+Fishes,Cyprinidae,Lythrurus ardens,,Rosefin Shiner,Native,Freshwater
+Fishes,Centrarchidae,Micropterus dolomieu,,Smallmouth Bass,Native,Freshwater
+Fishes,Centrarchidae,Micropterus punctulatus,,Spotted Bass,Native,Freshwater
+Fishes,Centrarchidae,Micropterus salmoides,,Largemouth Bass,Native,Freshwater
+Fishes,Moronidae,Morone americana,,White Perch,Native,Freshwater
+Fishes,Moronidae,Morone chrysops,,White Bass,Native,Freshwater-Marine
+Fishes,Moronidae,Morone chrysops x M. saxatilis,,wiper,Native Hybrid,Freshwater-Marine
+Fishes,Moronidae,Morone saxatilis,,Striped Bass,Native,Freshwater-Marine
+Fishes,Catostomidae,Moxostoma anisurum,,Silver Redhorse,Native,Freshwater
+Fishes,Catostomidae,Moxostoma cervinum,,Blacktip Jumprock,Native,Freshwater
+Fishes,Catostomidae,Moxostoma collapsum,,Notchlip Redhorse,Native,Freshwater
+Fishes,Catostomidae,Moxostoma erythrurum,,Golden Redhorse,Native,Freshwater
+Fishes,Cyprinidae,Nocomis leptocephalus,,Bluehead Chub,Native,Freshwater
+Fishes,Cyprinidae,Nocomis raneyi,,Bull Chub,Native,Freshwater
+Fishes,Cyprinidae,Notemigonus crysoleucas,,Golden Shiner,Native,Freshwater
+Fishes,Cyprinidae,Notropis altipinnis,,Highfin Shiner,Native,Freshwater
+Fishes,Cyprinidae,Notropis buccatus,,Silverjaw Minnow,Native,Freshwater
+Fishes,Cyprinidae,Notropis chiliticus,,Redlip Shiner,Native,Freshwater
+Fishes,Cyprinidae,Notropis hudsonius,,Spottail Shiner,Native,Freshwater
+Fishes,Cyprinidae,Notropis leuciodus,,Tennessee Shiner,Native,Freshwater
+Fishes,Cyprinidae,Notropis procne,,Swallowtail Shiner,Native,Freshwater
+Fishes,Cyprinidae,Notropis rubricroceus,,Saffron Shiner,Native,Freshwater
+Fishes,Cyprinidae,Notropis telescopus,,Telescope Shiner,Native,Freshwater
+Fishes,Ictaluridae,Noturus flavus,,Stonecat,Native,Freshwater
+Fishes,Ictaluridae,Noturus gilberti,,Orangefin Madtom,Native,Freshwater
+Fishes,Ictaluridae,Noturus insignis,,Margined Madtom,Native,Freshwater
+Fishes,Salmonidae,Oncorhynchus clarkii,,Cutthroat Trout,Native,Freshwater
+Fishes,Salmonidae,Oncorhynchus kisutch,,Coho Salmon,Native,Freshwater-Marine
+Fishes,Salmonidae,Oncorhynchus mykiss,,Rainbow Trout,Native,Freshwater-Marine
+Fishes,Salmonidae,Oncorhynchus mykiss irideus,,coastal rainbow trout,Native,Freshwater-Marine
+Fishes,Salmonidae,Oncorhynchus nerka,,Sockeye Salmon,Native,Freshwater-Marine
+Fishes,Salmonidae,Oncorhynchus tshawytscha,,Chinook Salmon,Native,Freshwater-Marine
+Fishes,Osmeridae,Osmerus mordax,,Rainbow Smelt,Native,Freshwater-Marine
+Fishes,Percidae,Perca flavescens,,Yellow Perch,Native,Freshwater
+Fishes,Percidae,Percina roanoka,,Roanoke Darter,Native,Freshwater
+Fishes,Characidae,Piaractus brachypomus,,pirapatinga, red-bellied pacu,Exotic,Freshwater
+Fishes,Cyprinidae,Pimephales notatus,,Bluntnose Minnow,Native,Freshwater
+Fishes,Cyprinidae,Pimephales promelas,,Fathead Minnow,Native,Freshwater
+Fishes,Centrarchidae,Pomoxis annularis,,White Crappie,Native,Freshwater
+Fishes,Centrarchidae,Pomoxis nigromaculatus,,Black Crappie,Native,Freshwater
+Fishes,Scorpaenidae,Pterois volitans/miles,,lionfish,Exotic,Marine
+Fishes,Characidae,Pygocentrus nattereri,,red piranha,Exotic,Freshwater
+Fishes,Ictaluridae,Pylodictis olivaris,,Flathead Catfish,Native,Freshwater
+Fishes,Cyprinidae,Rhinichthys cataractae,,Longnose Dace,Native,Freshwater
+Fishes,Salmonidae,Salmo salar,,Atlantic Salmon,Native,Freshwater-Marine
+Fishes,Salmonidae,Salmo salar sebago,,Atlantic Salmon,Native,Freshwater-Marine
+Fishes,Salmonidae,Salmo trutta,,Brown Trout,Exotic,Freshwater
+Fishes,Salmonidae,Salvelinus fontinalis,,Brook Trout,Native,Freshwater
+Fishes,Salmonidae,Salvelinus namaycush,,Lake Trout,Native,Freshwater
+Fishes,Percidae,Sander vitreus,,Walleye,Native,Freshwater
+Fishes,Cyprinidae,Scardinius erythrophthalmus,,Rudd,Exotic,Freshwater
+Fishes,Cyprinidae,Semotilus corporalis,,Fallfish,Native,Freshwater
+Fishes,Catostomidae,Thoburnia rhothoeca,,Torrent Sucker,Native,Freshwater
+Fishes,Salmonidae,Thymallus arcticus,,Arctic Grayling,Native,Freshwater
+Fishes,Cichlidae,Tilapia buttikoferi,,zebra tilapia,Exotic,Freshwater
+Fishes,Cyprinidae,Tinca tinca,,Tench,Exotic,Freshwater
+Fishes,Umbridae,Umbra limi,,Central Mudminnow,Native,Freshwater

@@ -1,0 +1,62 @@
+Group,Family,Scientific Name,variety,Common Name,Native/Exotic,Fresh/Marine/Brackish
+Fishes,Centrarchidae,Ambloplites rupestris,,Rock Bass,Native,Freshwater
+Fishes,Ictaluridae,Ameiurus melas,,Black Bullhead,Native,Freshwater
+Fishes,Ictaluridae,Ameiurus natalis,,Yellow Bullhead,Native,Freshwater
+Fishes,Cyprinidae,Carassius auratus,,Goldfish,Exotic,Freshwater
+Fishes,Catostomidae,Catostomus ardens,,Utah Sucker,Native,Freshwater
+Fishes,Catostomidae,Catostomus commersonii,,White Sucker,Native,Freshwater
+Fishes,Salmonidae,Coregonus artedi,,Cisco,Native,Freshwater
+Fishes,Salmonidae,Coregonus clupeaformis,,Lake Whitefish,Native,Freshwater
+Fishes,Cyprinidae,Couesius plumbeus,,Lake Chub,Native,Freshwater
+Fishes,Gasterosteidae,Culaea inconstans,,Brook Stickleback,Native,Freshwater
+Fishes,Cyprinidae,Cyprinus carpio,,Common Carp,Exotic,Freshwater
+Fishes,Esocidae,Esox lucius,,Northern Pike,Native,Freshwater
+Fishes,Esocidae,Esox lucius x E. masquinongy,,tiger muskellunge,Native Hybrid,Freshwater
+Fishes,Fundulidae,Fundulus kansae,,Northern Plains Killifish,Native,Freshwater
+Fishes,Fundulidae,Fundulus zebrinus,,Plains Killifish,Native,Freshwater
+Fishes,Poeciliidae,Gambusia affinis,,Western Mosquitofish,Native,Freshwater
+Fishes,Cyprinidae,Gila atraria,,Utah Chub,Native,Freshwater
+Fishes,Ictaluridae,Ictalurus punctatus,,Channel Catfish,Native,Freshwater
+Fishes,Centrarchidae,Lepomis cyanellus,,Green Sunfish,Native,Freshwater
+Fishes,Centrarchidae,Lepomis gibbosus,,Pumpkinseed,Native,Freshwater
+Fishes,Centrarchidae,Lepomis macrochirus,,Bluegill,Native,Freshwater
+Fishes,Centrarchidae,Micropterus dolomieu,,Smallmouth Bass,Native,Freshwater
+Fishes,Centrarchidae,Micropterus salmoides,,Largemouth Bass,Native,Freshwater
+Fishes,Moronidae,Morone chrysops,,White Bass,Native,Freshwater-Marine
+Fishes,Cyprinidae,Notemigonus crysoleucas,,Golden Shiner,Native,Freshwater
+Fishes,Cyprinidae,Notropis hudsonius,,Spottail Shiner,Native,Freshwater
+Fishes,Salmonidae,Oncorhynchus aguabonita,,Golden Trout,Native,Freshwater
+Fishes,Salmonidae,Oncorhynchus clarkii bouvieri,,Yellowstone cutthroat trout,Native,Freshwater
+Fishes,Salmonidae,Oncorhynchus clarkii lewisi,,Westslope Cutthroat Trout,Native,Freshwater
+Fishes,Salmonidae,Oncorhynchus clarkii x mykiss,,cutbow trout,Native Hybrid,Freshwater
+Fishes,Salmonidae,Oncorhynchus kisutch,,Coho Salmon,Native,Freshwater-Marine
+Fishes,Salmonidae,Oncorhynchus mykiss,,Rainbow Trout,Native,Freshwater-Marine
+Fishes,Salmonidae,Oncorhynchus mykiss ssp.,,redband trout,Native,Freshwater-Marine
+Fishes,Salmonidae,Oncorhynchus nerka,,Sockeye Salmon,Native,Freshwater-Marine
+Fishes,Salmonidae,Oncorhynchus tshawytscha,,Chinook Salmon,Native,Freshwater-Marine
+Fishes,Cichlidae,Oreochromis mossambicus,,Mozambique Tilapia,Exotic,Freshwater-Brackish
+Fishes,Osmeridae,Osmerus mordax,,Rainbow Smelt,Native,Freshwater-Marine
+Fishes,Percidae,Perca flavescens,,Yellow Perch,Native,Freshwater
+Fishes,Characidae,Piaractus brachypomus,,pirapatinga, red-bellied pacu,Exotic,Freshwater
+Fishes,Cyprinidae,Pimephales promelas,,Fathead Minnow,Native,Freshwater
+Fishes,Poeciliidae,Poecilia latipinna,,Sailfin Molly,Native,Freshwater
+Fishes,Poeciliidae,Poecilia mexicana,,Shortfin Molly,Exotic,Freshwater
+Fishes,Poeciliidae,Poecilia reticulata,,Guppy,Exotic,Freshwater
+Fishes,Poeciliidae,Poecilia sphenops,,Mexican Molly,Exotic,Freshwater
+Fishes,Centrarchidae,Pomoxis annularis,,White Crappie,Native,Freshwater
+Fishes,Centrarchidae,Pomoxis nigromaculatus,,Black Crappie,Native,Freshwater
+Fishes,Cyprinidae,Richardsonius balteatus,,Redside Shiner,Native,Freshwater
+Fishes,Salmonidae,Salmo letnica,,Ohrid trout,Exotic,Freshwater
+Fishes,Salmonidae,Salmo salar sebago,,Atlantic Salmon,Native,Freshwater-Marine
+Fishes,Salmonidae,Salmo trutta,,Brown Trout,Exotic,Freshwater
+Fishes,Salmonidae,Salmo trutta x Salvelinus fontinalis,,tiger trout,Exotic Hybrid,Freshwater
+Fishes,Salmonidae,Salvelinus fontinalis,,Brook Trout,Native,Freshwater
+Fishes,Salmonidae,Salvelinus namaycush,,Lake Trout,Native,Freshwater
+Fishes,Percidae,Sander canadensis x vitreus,,Saugeye,Native Hybrid,Freshwater
+Fishes,Percidae,Sander vitreus,,Walleye,Native,Freshwater
+Fishes,Acipenseridae,Scaphirhynchus platorynchus,,Shovelnose Sturgeon,Native,Freshwater
+Fishes,Salmonidae,Thymallus arcticus,,Arctic Grayling,Native,Freshwater
+Fishes,Umbridae,Umbra limi,,Central Mudminnow,Native,Freshwater
+Fishes,Poeciliidae,Xiphophorus hellerii,,Green Swordtail,Exotic,Freshwater
+Fishes,Poeciliidae,Xiphophorus maculatus,,Southern Platyfish,Exotic,Freshwater
+Fishes,Poeciliidae,Xiphophorus variatus,,Variable Platyfish,Exotic,Freshwater

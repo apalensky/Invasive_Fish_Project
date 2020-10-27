@@ -1,0 +1,56 @@
+Group,Family,Scientific Name,variety,Common Name,Native/Exotic,Fresh/Marine/Brackish
+Fishes,Clupeidae,Alosa pseudoharengus,,Alewife,Native,Freshwater-Marine
+Fishes,Ictaluridae,Ameiurus catus,,White Catfish,Native,Freshwater
+Fishes,Ictaluridae,Ameiurus melas,,Black Bullhead,Native,Freshwater
+Fishes,Gasterosteidae,Apeltes quadracus,,Fourspine Stickleback,Native,Freshwater-Brackish
+Fishes,Cyprinidae,Carassius auratus,,Goldfish,Exotic,Freshwater
+Fishes,Channidae,Channa micropeltes,,Giant Snakehead,Exotic,Freshwater
+Fishes,Cyprinidae,Chrosomus eos,,Northern Redbelly Dace,Native,Freshwater
+Fishes,Salmonidae,Coregonus albula,,vendace,Exotic,Freshwater
+Fishes,Salmonidae,Coregonus clupeaformis,,Lake Whitefish,Native,Freshwater
+Fishes,Salmonidae,Coregonus wartmanni,,blaufelchen,Exotic,Freshwater
+Fishes,Gasterosteidae,Culaea inconstans,,Brook Stickleback,Native,Freshwater
+Fishes,Cyprinidae,Cyprinus carpio,,Common Carp,Exotic,Freshwater
+Fishes,Clupeidae,Dorosoma cepedianum,,Gizzard Shad,Native,Freshwater-Marine
+Fishes,Clupeidae,Dorosoma petenense,,Threadfin Shad,Native,Freshwater-Marine
+Fishes,Esocidae,Esox americanus americanus,,Redfin Pickerel,Native,Freshwater
+Fishes,Esocidae,Esox lucius,,Northern Pike,Native,Freshwater
+Fishes,Esocidae,Esox masquinongy,,Muskellunge,Native,Freshwater
+Fishes,Esocidae,Esox niger,,Chain Pickerel,Native,Freshwater
+Fishes,Cyprinidae,Hybognathus regius,,Eastern Silvery Minnow,Native,Freshwater
+Fishes,Ictaluridae,Ictalurus punctatus,,Channel Catfish,Native,Freshwater
+Fishes,Centrarchidae,Lepomis cyanellus,,Green Sunfish,Native,Freshwater
+Fishes,Centrarchidae,Lepomis macrochirus,,Bluegill,Native,Freshwater
+Fishes,Cyprinidae,Leuciscus idus,,Ide,Exotic,Freshwater
+Fishes,Cyprinidae,Luxilus cornutus,,Common Shiner,Native,Freshwater
+Fishes,Centrarchidae,Micropterus dolomieu,,Smallmouth Bass,Native,Freshwater
+Fishes,Centrarchidae,Micropterus salmoides,,Largemouth Bass,Native,Freshwater
+Fishes,Moronidae,Morone americana,,White Perch,Native,Freshwater
+Fishes,Cyprinidae,Notemigonus crysoleucas,,Golden Shiner,Native,Freshwater
+Fishes,Cyprinidae,Notropis atherinoides,,Emerald Shiner,Native,Freshwater
+Fishes,Cyprinidae,Notropis hudsonius,,Spottail Shiner,Native,Freshwater
+Fishes,Salmonidae,Oncorhynchus gorbuscha,,Pink Salmon,Native,Freshwater-Marine
+Fishes,Salmonidae,Oncorhynchus keta,,Chum Salmon,Native,Freshwater-Marine
+Fishes,Salmonidae,Oncorhynchus kisutch,,Coho Salmon,Native,Freshwater-Marine
+Fishes,Salmonidae,Oncorhynchus mykiss,,Rainbow Trout,Native,Freshwater-Marine
+Fishes,Salmonidae,Oncorhynchus nerka,,Sockeye Salmon,Native,Freshwater-Marine
+Fishes,Salmonidae,Oncorhynchus tshawytscha,,Chinook Salmon,Native,Freshwater-Marine
+Fishes,Osmeridae,Osmerus mordax,,Rainbow Smelt,Native,Freshwater-Marine
+Fishes,Percidae,Perca flavescens,,Yellow Perch,Native,Freshwater
+Fishes,Characidae,Piaractus brachypomus,,pirapatinga, red-bellied pacu,Exotic,Freshwater
+Fishes,Cyprinidae,Pimephales promelas,,Fathead Minnow,Native,Freshwater
+Fishes,Centrarchidae,Pomoxis nigromaculatus,,Black Crappie,Native,Freshwater
+Fishes,Salmonidae,Salmo salar,,Atlantic Salmon,Native,Freshwater-Marine
+Fishes,Salmonidae,Salmo salar sebago,,Atlantic Salmon,Native,Freshwater-Marine
+Fishes,Salmonidae,Salmo trutta,,Brown Trout,Exotic,Freshwater
+Fishes,Salmonidae,Salvelinus alpinus,,Arctic Char,Native,Freshwater-Marine
+Fishes,Salmonidae,Salvelinus alpinus oquassa,,blueback trout, Sunapee trout,Native,Freshwater-Marine
+Fishes,Salmonidae,Salvelinus fontinalis x namaycush,,splake,Native Hybrid,Freshwater
+Fishes,Salmonidae,Salvelinus namaycush,,Lake Trout,Native,Freshwater
+Fishes,Percidae,Sander vitreus,,Walleye,Native,Freshwater
+Fishes,Cyprinidae,Scardinius erythrophthalmus,,Rudd,Exotic,Freshwater
+Fishes,Cyprinidae,Semotilus atromaculatus,,Creek Chub,Native,Freshwater
+Fishes,Cyprinidae,Semotilus corporalis,,Fallfish,Native,Freshwater
+Fishes,Salmonidae,Thymallus arcticus,,Arctic Grayling,Native,Freshwater
+Fishes,Cyprinidae,Tinca tinca,,Tench,Exotic,Freshwater
+Fishes,Umbridae,Umbra limi,,Central Mudminnow,Native,Freshwater
